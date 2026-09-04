@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IPTV Smart TV Player</string>
+
+    <!-- Playlist Screen -->
+    <string name="playlist">Playlist</string>
+    <string name="all">All</string>
+    <string name="url">URL</string>
+    <string name="file">File</string>
+    <string name="channels_count">%d Channels</string>
+    <string name="welcome_to_iptv_smart">Welcome to IPTV Smart</string>
+    <string name="the_user_guide">The user guide</string>
+    <string name="start">Start</string>
+    <string name="add_playlist">Add Playlist</string>
+    <string name="import_playlist_url">Import Playlist URL</string>
+    <string name="upload_m3u_file">Upload M3U File</string>
+    <string name="load_from_device">Load From Device</string>
+    <string name="play_single_stream">Play Single Stream</string>
+    <string name="no_playlists_yet">No playlists yet.\nTap + to add one via a public M3U URL.</string>
+    <string name="recent">Recents</string>
+    <string name="favorites">Favorites</string>
+
+    <!-- Bottom Nav -->
+    <string name="playlists">Playlists</string>
+    <string name="channels">Channels</string>
+    <string name="settings">Settings</string>
+
+    <!-- Import Screen -->
+    <string name="import_playlist_url_title">Import Playlist URL</string>
+    <string name="playlist_name">Playlist Name</string>
+    <string name="enter_playlist_name">Enter playlist name</string>
+    <string name="playlist_url">Playlist URL</string>
+    <string name="enter_playlist_url">Enter playlist url</string>
+    <string name="password_protection">Password Protection</string>
+    <string name="choose_color">Choose Color</string>
+    <string name="choose_icon">Choose Icon</string>
+    <string name="save">Save</string>
+    <string name="back">Back</string>
+</resources>
